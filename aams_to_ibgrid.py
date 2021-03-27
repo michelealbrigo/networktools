@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Conversione della lista AAMS per oscuramento siti di gambling non autorizzati in file CSV per blacklist Infoblox
 # importazione moduli
 import datetime
 import urllib
